@@ -5,7 +5,7 @@ Click to start JupyterLite:
 
 
 
-# This repository has been cloned from the JupyterLite Demo 
+### This repository has been cloned from the JupyterLite Demo 
 
 For more information on JupyterLite, please see the information below: 
 
