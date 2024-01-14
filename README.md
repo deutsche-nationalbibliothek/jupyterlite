@@ -1,11 +1,13 @@
-# This repository has been cloned from the JupyterLite Demo
-## for more information on JupyterLite, please see the information below. 
-
 # Start DNB's JupyterLite environment: 
 
+Click to start JupyterLite:
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://deutsche-nationalbibliothek.github.io/jupyterlite)
 
 
+
+# This repository has been cloned from the JupyterLite Demo 
+
+For more information on JupyterLite, please see the information below: 
 
 # JupyterLite Demo
 
